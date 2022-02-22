@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles by the grace of God, king of England, Scotland, France, and Ireland, defender of the faith, &amp;c., to all to whom these presents shall come, greeting whereas the lords spirituall and temporall, now assembled in Parliament vpon the sixt day of this instant moneth of August, entring into a due and Christian consideration of the wants ... which many poore people ... of London and Westminster doe vndergoe by reason of the grieuous visitation of the plague ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22382</idno>
+            <idno type="STC">STC 8794</idno>
+            <idno type="STC">ESTC S122676</idno>
+            <idno type="EEBO-CITATION">33150935</idno>
+            <idno type="OCLC">ocm 33150935</idno>
+            <idno type="VID">28826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles by the grace of God, king of England, Scotland, France, and Ireland, defender of the faith, &amp;c., to all to whom these presents shall come, greeting whereas the lords spirituall and temporall, now assembled in Parliament vpon the sixt day of this instant moneth of August, entring into a due and Christian consideration of the wants ... which many poore people ... of London and Westminster doe vndergoe by reason of the grieuous visitation of the plague ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 4 lines of text.</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>"Witnes Our Selfe at Our City of Oxford, this eleuenth day of August, in the first yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public welfare --  England --  Early works to 1800.</term>
+               <term>Charities --  England --  Early works to 1800.</term>
+               <term>Plague --  England.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28826:1"/>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>HARLES by the grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. TO all to whom theſe Preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>WHEREAS the Lords Spirituall and Temporall, now aſſembled in Parliament vpon the ſixt day of this inſtant moneth of <hi>Auguſt,</hi> entring into a due and Chriſtian conſideration of the Wants and Extremities, which many poore people inhabiting in or neere the Cities and Suburbs of <hi>London,</hi> and <hi>Westminſter</hi> doe vndergoe by reaſon of the grieuous viſitation of the Plague, and the want of neceſſarie reliefe; made an order, the tenor whereof followeth in theſe words, <hi>viz.</hi> In Parliament, <hi>Oxon. 6.</hi> of <hi>Auguſt, Anno primo Regis Caroli.</hi> The Lords hauing this day taken into their charitable conſideration the lamentable diſtreſſe of the poore peo<g ref="char:EOLhyphen"/>ple, Inhabiting in the Cities and Suburbs of <hi>London,</hi> and <hi>Weſtminſter,</hi> and in the Out pariſhes adjoyning, and in the Pariſh of <hi>Stepney,</hi> who in this time of the great contagion of the Plague now rageing in thoſe parts, are leſſe ſubject to good orders, being left deſtiture of conuenient reliefe, in reſpect that the rich and able Citizens, and other Inhabitants of all ſorts, being departed thence for auoiding the infection, haue not taken ſufficient order, for reliefe of the poore people remaining behinde, haue thought fit, and doe now order, ad<g ref="char:EOLhyphen"/>uiſe, and direct, that ouer and beſides all prouiſion already made, there be this further added for their better reliefe, <hi>viz.</hi> That all per<g ref="char:EOLhyphen"/>ſons taxed or taxable in the limits and places aforeſaid, either for houſes, lands, goods, or otherwiſe towards the reliefe of the poore, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing not to impoueriſhed themſelues by this viſitation as they ſhall be forborne to be taxed, ſhall by the proper Officers be taxed to beare a double proportion of taxe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the leaſt, during the times of this Viſitation, and more if it ſhall be found requiſite by the Magiſtrates, Iuſtices of Peace, or other Officers there abiding for the time: <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd after notice giuen to any perſon ſo taxed, or left at his houſe, whereſoeuer he ſhall be remaining, he is hereby ordered to make due paiment, weekely, or monethly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſhall be required: And becauſe it is conceiued, thay very many are remooved ſo farre from <hi>London,</hi> as that notice cannot be conueniently giuen with ſuch ſpeed as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſently ſupply the neceſſitie of the poore; Their Lordſhips doe deſire the Chamber, or Bridge-houſe of <hi>London,</hi> to lend and disburſe a thouſand pounds at the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for this purpoſe. And it is ordered that they, or any charitable and able Inhabitants, laying out that ſumme, or any farther ſummes which ſhall be wanting, ſhall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ly repayed whatſoeuer they ſhall disburſe, out of the ſumme ſo taxed, ſo ſoone as they may be leuied, and out of a generall Collection which His Majeſtie at <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lordſhips humble ſuite, hath to recommend throughout the whole Kindome for the reliefe of the ſaid Poore: Wherein their Lordſhips now aſſembled, will <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſelues ſet an example for incouragement of others. And to the intent, that the Moneys to be raiſed by way of taxation (as is firſt aboue-mentioned) may be the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truely and ſpeedily leuied, their Lordſhips during the time while they ſhall ſit, will be pleaſed to take knowledge of all Complaints againſt ſuch as ſhall refuſe to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſaid Taxation, and puniſh them ſo exemplarily, as ſhall be a terrour to others. And they doe further order, that after the ſitting ſhall end, the Lords of His <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſties Priuie Councell vpon complaint to them, and the Lord Keeper of the Great Seale of <hi>England</hi> vpon complaint to him, ſhall doe the like. And their Lordſhips <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing been informed of the good and charitable courſe helde by ſome Companies and others within the City, in forbearing the Companies and Hall-dinners, and tur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g them vnto the reliefe of the poore, doe highly commend thoſe that haue ſo done; and doe with their example may be followed by the Lord Major, Sheriffes, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e reſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a thing much pleaſing to God, and agreeable to the time. <hi>Exam. H. Elſing: Cler. Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament.</hi> AND WHEREAS the ſaid Lords haue freely of them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>s payed downe preſently euery of them aboue the ſtate of a Baron, ſorty ſhillings apiece, and euery other of the ſtate of a Baron, being Spirituall or Temporall Lords, twentie ſhillings into the hands of the right Reuerend Father in God, <hi>George</hi> Lord Biſhop of <hi>London,</hi> to be diſpoſed of as the reſt of the Moneys to be collected <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the vſe aboue-mentioned:</p>
+            <p>KNOWYE therefore that We alſo aboue all other, moſt grieued at the pitifull and wofull eſtate of our ſaid poore Subiects, and much commiſerating the ſame, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much reioycing in the forwardneſſe of our ſaid Lords, towards the performance of ſo Chriſtian and charitable an action, whoſe good example wee earneſtly deſire <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all other our louing Subjects of qualitie would follow in this behalfe, according to their degrees; Of our Princely Grace, doe ratifie and much approoue their <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Order ſo ſet downe: And in confirmation, and for the execution thereof, ſo grant, that according to the ſaid Order, Collection may be made of the charitable de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>on and liberalitie of all our louing Subjects, throughout our Realme of <hi>England,</hi> &amp; Dominion of <hi>Wales,</hi> in all places whatſoeuer, towards the reliefe of our ſaid poore <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ects, to be executed in maner and forme following. That is to ſay, We will, grant, appoint, and require, That. <hi>Arthur Ducke</hi> Doctour of Law, Chancellour, and <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſtian</hi> Eſquire, Principall Regiſter to the ſaid Biſhop of <hi>London,</hi> or his, or their Deputy or Deputies, named and appointed by him or them, in writing vnder or their hands and ſeales, ſhall and may procure to be printed ſo many Briefes of theſe our Letters Patents, as may ſuffiſe for the accompliſhing and performance <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> good Worke: And ſhall cary and ſhew theſe our Letters Patents to the ſaid Lord Biſhop of <hi>London,</hi> and ſhall alſo leaue with his Lordſhip ſo many of theſe <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed Briefes, as there are Churches or Chappels wherein diuine Seruice is vſually ſaid, within his Dioceſſe of <hi>London,</hi> And ſhall ſend to euery other Archbiſhop <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Biſhop, ſo many of the ſaid Briefes, as may ſerue to be diſperſed within their ſeuerall Dioceſſes</p>
+            <p>AND We alſo require the Lords Archbiſhops of <hi>Canterbury</hi> and <hi>Yorke,</hi> and all and euery Lord Biſhop within this our Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> receiue ſo many of the ſaid Briefes, as may ſerue to be diſperſed within their ſeuerall Dioceſſes, the ſaid Briefes to be ſent by the Archbiſhops and Biſhops to the Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ter and Curate of euery Pariſh Church or <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>appell within their ſeuerall Dioceſſes. And Wee alſo will and require euery Miniſter and Curate of any Church or Chappell, to whom ſuch printed Briefes ſhall be deliuered, that without any long delay vpon ſome Sunday or Holy-day, when the Pariſhioners be fully aſſembled to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diuine Seruice, they publikely declare in their ſeuerall Church or Chappell, vnto the Congregation there aſſembled, the tenure of theſe Briefes, with an eſpeciall <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tation to them, to yeeld their liberall and extraordinarie contribution to ſo charitable a worke. And wee alſo will and require, you the Churchwardens and ouer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> of the poore, to make diligent collection of the charitable deuotion of the people in the ſai Church or Chappell ſo aſſembled: And that after collection ſo made, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doe publikely declare in the Church, the whole ſumme of money ſo by them collected; and then procure the ſame ſumme to be ſet downe vpon the backeſide of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Briefe vnder their owne hand, and the hand of the Miniſter of the ſaid Church or Chappell: And then the ſaid Churchwardens or Ouerſeers, or one of them, af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the receipt of the ſaid money collected, ſhall deliuer the ſumme collected, with the ſaid Briefe, vnto ſuch Miniſter of the Deanery where the ſaid collection ſhall be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade, as the Lord Biſhop of the Dioceſſe ſhall aſſigne and appoint to receiue the ſame: And the Biſhop of euery Dioceſſe is hereby authorized, to name and appoint a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iniſter in euery Deanery to receiue the ſaid collections accordingly. And Wee alſo require the ſaid Miniſter which ſhall be ſo appointed, to receiue the ſaid money <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om the ſaid Ouerſeers, that he receiue the ſame, with the aforeſaid Briefe: And that within ten dayes after the receipt thereof, he pay and deliuer the ſame, with the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>efe whereby the ſame hath beene collected, vnto the Lord Biſhop to the Dioceſſe, where ſuch collection is made. And wee alſo require, the Archbiſhops and Bi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ops of euery Dioceſſe reſpectiuely, that they require of the ſaid Miniſter the ſaid money, with the Briefe whereby the ſame hath beene collected, and deliuer ouer <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſaid collections, made within their ſeuerall and reſpectiue Dioceſſes, with the aforeſaid Briefes, to the ſaid Biſhop of <hi>London</hi> or his Deputies, all the ſaid money <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be diſpoſed of, by the ſaid Lord Biſhop of <hi>London,</hi> with the aduice of any two or more Lords of Parliament, to the ſatisfaction of the money to be depoſited, and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>de out, according to the ſaid order, and to the reliefe of the poore and diſtreſſed people in the ſaid Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and in the Pariſhes and places <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jacent and neere thereunto, in the Counties of <hi>Middleſex</hi> and <hi>Surrey,</hi> where it is and ſhall be moſt needfull: And therein Wee will the Out-pariſhes, as being moſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>biect to pouertie, infection, and neceſſitie, be ſpecially regarded: Any Statute, Law, Ordinance or Prouiſion, heretofore made to the contrary, in any wiſe not<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thſtanding.</p>
+            <p>IN WITNES whereof, Wee haue cauſed theſe Our Letters to be made Patents for the ſpace of one whole yeere, next after the date hereof to endure,</p>
+            <closer>
+               <dateline>WITNES Our Selfe at Our City of Oxford, <date>the eleuenth day of Auguſt, in the firſt yeere of Our Reigne of Great Britaine, France, and Ireland.</date>
+               </dateline>
+               <signed>Steward.</signed>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Oxford.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
